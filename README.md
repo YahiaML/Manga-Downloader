@@ -1,6 +1,5 @@
 # Manga Downloader - Bringing Offline Manga and Manhwa Reading to Life
 
-# **Introductory Paragraph**:
 As an avid fan of Manga and Manhwa, I've always yearned for the ability to enjoy my favorite titles offline, anytime, anywhere. Inspired by this passion, I embarked on an exciting project that allowed me to bring offline reading to life. In this post, I am thrilled to share the Manga Downloader project I have completed, which not only fulfills my personal desire but also serves as a valuable tool for Manga and Manhwa enthusiasts around the world.
 
 # **Project Overview**:
